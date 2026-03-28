@@ -4,7 +4,7 @@ A safe, guided workspace template for kids to learn coding with Claude Code.
 
 ## Prerequisites
 
-- [Claude Code](https://claude.ai/claude-code) installed
+- [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview) installed
 
 ## Setup
 
