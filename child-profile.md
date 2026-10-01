@@ -1,7 +1,7 @@
 # Child Profile & Learnings
 
 > This file is populated during setup and updated by Claude at the end of every session.
-> Parents: do not delete this file when updating CLAUDE.md — this is your child's living record.
+> Parents: do not delete this file when updating AGENTS.md — this is your child's living record.
 
 ## About
 
